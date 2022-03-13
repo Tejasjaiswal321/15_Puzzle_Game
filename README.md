@@ -1,6 +1,4 @@
 # 15_Puzzle_Game
-This is my first project in C.
-
 Task of the game:
   To arrange the 15 tiles in ascending order.
   
